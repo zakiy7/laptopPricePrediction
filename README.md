@@ -1,0 +1,1 @@
+Used historical data of laptop prices of a particular laptop outlet and used Linear Regression, Decision Tree, Random Forest and XGB Regressor to predict the laptop prices for different combination of features
